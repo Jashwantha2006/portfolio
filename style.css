@@ -1037,6 +1037,16 @@ hr {
   color: #d0d0d0;
 }
 
+.email-link {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.email-link:hover {
+  color: #ff3c3c;
+}
+
 .contact-item svg {
   color: #ff4d6d;
   filter: drop-shadow(0 0 6px rgba(255, 80, 120, 0.6));
@@ -1139,4 +1149,5 @@ hr {
     justify-content: center;
   }
 }
+
 
